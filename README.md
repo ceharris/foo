@@ -1,4 +1,4 @@
 foo
 ===
 
-Is bar?
+Foo is not fu.
